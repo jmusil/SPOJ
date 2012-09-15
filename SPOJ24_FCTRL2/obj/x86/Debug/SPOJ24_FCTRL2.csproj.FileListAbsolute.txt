@@ -1,0 +1,5 @@
+c:\users\f3z0j\documents\visual studio 2010\Projects\SPOJ\SPOJ24_FCTRL2\bin\Debug\SPOJ24_FCTRL2.exe
+c:\users\f3z0j\documents\visual studio 2010\Projects\SPOJ\SPOJ24_FCTRL2\bin\Debug\SPOJ24_FCTRL2.pdb
+c:\users\f3z0j\documents\visual studio 2010\Projects\SPOJ\SPOJ24_FCTRL2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\f3z0j\documents\visual studio 2010\Projects\SPOJ\SPOJ24_FCTRL2\obj\x86\Debug\SPOJ24_FCTRL2.exe
+c:\users\f3z0j\documents\visual studio 2010\Projects\SPOJ\SPOJ24_FCTRL2\obj\x86\Debug\SPOJ24_FCTRL2.pdb

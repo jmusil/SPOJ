@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPOJ24_FCTRL2", "SPOJ24_FCTRL2\SPOJ24_FCTRL2.csproj", "{1148C4CA-3E60-4B87-8E69-14CC2AF841E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPOJ11_FCTRL", "SPOJ11_FCTRL\SPOJ11_FCTRL.csproj", "{71E1CD8B-512A-45C1-83F9-E7AA03EBDEC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPOJ42_ADDREV", "SPOJ42_ADDREV\SPOJ42_ADDREV.csproj", "{B4599AC4-F823-4CB3-B8E1-EEA8879D18D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1148C4CA-3E60-4B87-8E69-14CC2AF841E1}.Debug|x86.ActiveCfg = Debug|x86
+		{1148C4CA-3E60-4B87-8E69-14CC2AF841E1}.Debug|x86.Build.0 = Debug|x86
+		{1148C4CA-3E60-4B87-8E69-14CC2AF841E1}.Release|x86.ActiveCfg = Release|x86
+		{1148C4CA-3E60-4B87-8E69-14CC2AF841E1}.Release|x86.Build.0 = Release|x86
+		{71E1CD8B-512A-45C1-83F9-E7AA03EBDEC4}.Debug|x86.ActiveCfg = Debug|x86
+		{71E1CD8B-512A-45C1-83F9-E7AA03EBDEC4}.Debug|x86.Build.0 = Debug|x86
+		{71E1CD8B-512A-45C1-83F9-E7AA03EBDEC4}.Release|x86.ActiveCfg = Release|x86
+		{71E1CD8B-512A-45C1-83F9-E7AA03EBDEC4}.Release|x86.Build.0 = Release|x86
+		{B4599AC4-F823-4CB3-B8E1-EEA8879D18D1}.Debug|x86.ActiveCfg = Debug|x86
+		{B4599AC4-F823-4CB3-B8E1-EEA8879D18D1}.Debug|x86.Build.0 = Debug|x86
+		{B4599AC4-F823-4CB3-B8E1-EEA8879D18D1}.Release|x86.ActiveCfg = Release|x86
+		{B4599AC4-F823-4CB3-B8E1-EEA8879D18D1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

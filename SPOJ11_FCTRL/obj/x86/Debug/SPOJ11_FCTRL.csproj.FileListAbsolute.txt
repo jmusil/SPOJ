@@ -1,0 +1,15 @@
+C:\Users\f3z0j\AppData\Local\Temporary Projects\SPOJ11_FCTRL\bin\Debug\SPOJ11_FCTRL.exe
+C:\Users\f3z0j\AppData\Local\Temporary Projects\SPOJ11_FCTRL\bin\Debug\SPOJ11_FCTRL.pdb
+C:\Users\f3z0j\AppData\Local\Temporary Projects\SPOJ11_FCTRL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\AppData\Local\Temporary Projects\SPOJ11_FCTRL\obj\x86\Debug\SPOJ11_FCTRL.exe
+C:\Users\f3z0j\AppData\Local\Temporary Projects\SPOJ11_FCTRL\obj\x86\Debug\SPOJ11_FCTRL.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ11_FCTRL\SPOJ11_FCTRL\obj\x86\Debug\SPOJ11_FCTRL.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ11_FCTRL\SPOJ11_FCTRL\obj\x86\Debug\SPOJ11_FCTRL.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ11_FCTRL\SPOJ11_FCTRL\bin\Debug\SPOJ11_FCTRL.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ11_FCTRL\SPOJ11_FCTRL\bin\Debug\SPOJ11_FCTRL.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ11_FCTRL\SPOJ11_FCTRL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ11_FCTRL\bin\Debug\SPOJ11_FCTRL.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ11_FCTRL\bin\Debug\SPOJ11_FCTRL.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ11_FCTRL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ11_FCTRL\obj\x86\Debug\SPOJ11_FCTRL.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ11_FCTRL\obj\x86\Debug\SPOJ11_FCTRL.pdb

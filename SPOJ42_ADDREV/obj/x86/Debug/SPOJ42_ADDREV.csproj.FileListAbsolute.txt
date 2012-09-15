@@ -1,0 +1,14 @@
+C:\Users\Adm1n\AppData\Local\Temporary Projects\SPOJ42_ADDREV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adm1n\AppData\Local\Temporary Projects\SPOJ42_ADDREV\bin\Debug\SPOJ42_ADDREV.exe
+C:\Users\Adm1n\AppData\Local\Temporary Projects\SPOJ42_ADDREV\bin\Debug\SPOJ42_ADDREV.pdb
+C:\Users\Adm1n\AppData\Local\Temporary Projects\SPOJ42_ADDREV\obj\x86\Debug\SPOJ42_ADDREV.exe
+C:\Users\Adm1n\AppData\Local\Temporary Projects\SPOJ42_ADDREV\obj\x86\Debug\SPOJ42_ADDREV.pdb
+C:\Users\Adm1n\documents\visual studio 2010\Projects\SPOJ42_ADDREV\SPOJ42_ADDREV\obj\x86\Debug\SPOJ42_ADDREV.exe
+C:\Users\Adm1n\documents\visual studio 2010\Projects\SPOJ42_ADDREV\SPOJ42_ADDREV\obj\x86\Debug\SPOJ42_ADDREV.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ42_ADDREV\SPOJ42_ADDREV\obj\x86\Debug\SPOJ42_ADDREV.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ42_ADDREV\SPOJ42_ADDREV\obj\x86\Debug\SPOJ42_ADDREV.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ42_ADDREV\bin\Debug\SPOJ42_ADDREV.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ42_ADDREV\bin\Debug\SPOJ42_ADDREV.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ42_ADDREV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ42_ADDREV\obj\x86\Debug\SPOJ42_ADDREV.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\SPOJ42_ADDREV\obj\x86\Debug\SPOJ42_ADDREV.pdb
