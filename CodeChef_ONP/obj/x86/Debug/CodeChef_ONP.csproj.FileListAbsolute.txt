@@ -1,0 +1,5 @@
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ONP\bin\Debug\CodeChef_ONP.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ONP\bin\Debug\CodeChef_ONP.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ONP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ONP\obj\x86\Debug\CodeChef_ONP.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ONP\obj\x86\Debug\CodeChef_ONP.pdb

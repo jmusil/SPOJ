@@ -1,0 +1,5 @@
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_TSORT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_TSORT\bin\Debug\CodeChef_TSORT.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_TSORT\bin\Debug\CodeChef_TSORT.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_TSORT\obj\x86\Debug\CodeChef_TSORT.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_TSORT\obj\x86\Debug\CodeChef_TSORT.pdb

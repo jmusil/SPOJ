@@ -1,0 +1,5 @@
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_DCE05\bin\Debug\CodeChef_DCE05.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_DCE05\bin\Debug\CodeChef_DCE05.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_DCE05\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_DCE05\obj\x86\Debug\CodeChef_DCE05.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_DCE05\obj\x86\Debug\CodeChef_DCE05.pdb

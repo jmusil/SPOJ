@@ -1,0 +1,5 @@
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ATM\bin\Debug\CodeChef_ATM.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ATM\bin\Debug\CodeChef_ATM.pdb
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ATM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ATM\obj\x86\Debug\CodeChef_ATM.exe
+C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_ATM\obj\x86\Debug\CodeChef_ATM.pdb
