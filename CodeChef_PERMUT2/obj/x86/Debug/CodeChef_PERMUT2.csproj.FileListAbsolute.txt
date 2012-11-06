@@ -3,5 +3,3 @@ C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_PERMUT2\bin\D
 C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_PERMUT2\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_PERMUT2\obj\x86\Debug\CodeChef_PERMUT2.exe
 C:\Users\f3z0j\Documents\Visual Studio 2010\Projects\SPOJ\CodeChef_PERMUT2\obj\x86\Debug\CodeChef_PERMUT2.pdb
-c:\Users\f3z0j\Documents\github\SPOJ\CodeChef_PERMUT2\obj\x86\Debug\CodeChef_PERMUT2.exe
-c:\Users\f3z0j\Documents\github\SPOJ\CodeChef_PERMUT2\obj\x86\Debug\CodeChef_PERMUT2.pdb

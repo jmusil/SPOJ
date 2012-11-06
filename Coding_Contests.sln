@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_ONP", "CodeChef_ON
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_PERMUT2", "CodeChef_PERMUT2\CodeChef_PERMUT2.csproj", "{BB9A1CEC-E345-40F4-AC66-58AEF35C1B4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_HOLES", "CodeChef_HOLES\CodeChef_HOLES.csproj", "{3172B849-4CB1-4DEB-A737-F705FFCC0D05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,6 +57,10 @@ Global
 		{BB9A1CEC-E345-40F4-AC66-58AEF35C1B4C}.Debug|x86.Build.0 = Debug|x86
 		{BB9A1CEC-E345-40F4-AC66-58AEF35C1B4C}.Release|x86.ActiveCfg = Release|x86
 		{BB9A1CEC-E345-40F4-AC66-58AEF35C1B4C}.Release|x86.Build.0 = Release|x86
+		{3172B849-4CB1-4DEB-A737-F705FFCC0D05}.Debug|x86.ActiveCfg = Debug|x86
+		{3172B849-4CB1-4DEB-A737-F705FFCC0D05}.Debug|x86.Build.0 = Debug|x86
+		{3172B849-4CB1-4DEB-A737-F705FFCC0D05}.Release|x86.ActiveCfg = Release|x86
+		{3172B849-4CB1-4DEB-A737-F705FFCC0D05}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
