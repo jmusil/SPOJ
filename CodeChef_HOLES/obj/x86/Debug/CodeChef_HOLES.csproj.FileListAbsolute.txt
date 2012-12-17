@@ -1,5 +1,0 @@
-C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_HOLES\bin\Debug\CodeChef_HOLES.exe
-C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_HOLES\bin\Debug\CodeChef_HOLES.pdb
-C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_HOLES\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_HOLES\obj\x86\Debug\CodeChef_HOLES.exe
-C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_HOLES\obj\x86\Debug\CodeChef_HOLES.pdb

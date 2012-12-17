@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_MIME2", "CodeChef_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_LECANDY", "CodeChef_LECANDY\CodeChef_LECANDY.csproj", "{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_LEBOMBS", "CodeChef_LEBOMBS\CodeChef_LEBOMBS.csproj", "{12D4E59B-9A2F-45D9-9C4D-7102AB71028B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -79,6 +81,10 @@ Global
 		{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}.Debug|x86.Build.0 = Debug|x86
 		{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}.Release|x86.ActiveCfg = Release|x86
 		{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}.Release|x86.Build.0 = Release|x86
+		{12D4E59B-9A2F-45D9-9C4D-7102AB71028B}.Debug|x86.ActiveCfg = Debug|x86
+		{12D4E59B-9A2F-45D9-9C4D-7102AB71028B}.Debug|x86.Build.0 = Debug|x86
+		{12D4E59B-9A2F-45D9-9C4D-7102AB71028B}.Release|x86.ActiveCfg = Release|x86
+		{12D4E59B-9A2F-45D9-9C4D-7102AB71028B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

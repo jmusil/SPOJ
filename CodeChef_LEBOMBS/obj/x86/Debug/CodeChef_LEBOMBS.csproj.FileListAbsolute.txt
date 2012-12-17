@@ -1,0 +1,5 @@
+c:\users\jmusil\documents\visual studio 2010\Projects\CodeChef_LEBOMBS\CodeChef_LEBOMBS\bin\Debug\CodeChef_LEBOMBS.exe
+c:\users\jmusil\documents\visual studio 2010\Projects\CodeChef_LEBOMBS\CodeChef_LEBOMBS\bin\Debug\CodeChef_LEBOMBS.pdb
+c:\users\jmusil\documents\visual studio 2010\Projects\CodeChef_LEBOMBS\CodeChef_LEBOMBS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jmusil\documents\visual studio 2010\Projects\CodeChef_LEBOMBS\CodeChef_LEBOMBS\obj\x86\Debug\CodeChef_LEBOMBS.exe
+c:\users\jmusil\documents\visual studio 2010\Projects\CodeChef_LEBOMBS\CodeChef_LEBOMBS\obj\x86\Debug\CodeChef_LEBOMBS.pdb
