@@ -1,0 +1,5 @@
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_MIME2\bin\Debug\CodeChef_MIME2.exe
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_MIME2\bin\Debug\CodeChef_MIME2.pdb
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_MIME2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_MIME2\obj\x86\Debug\CodeChef_MIME2.exe
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_MIME2\obj\x86\Debug\CodeChef_MIME2.pdb

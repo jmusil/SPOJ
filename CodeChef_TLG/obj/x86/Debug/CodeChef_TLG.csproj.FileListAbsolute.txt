@@ -1,0 +1,5 @@
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_TLG\bin\Debug\CodeChef_TLG.exe
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_TLG\bin\Debug\CodeChef_TLG.pdb
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_TLG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_TLG\obj\x86\Debug\CodeChef_TLG.exe
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_TLG\obj\x86\Debug\CodeChef_TLG.pdb

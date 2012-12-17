@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_TLG", "CodeChef_TL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_MIME2", "CodeChef_MIME2\CodeChef_MIME2.csproj", "{75EDFDCC-E92E-4B84-86CB-D194A353DBAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_LECANDY", "CodeChef_LECANDY\CodeChef_LECANDY.csproj", "{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -73,6 +75,10 @@ Global
 		{75EDFDCC-E92E-4B84-86CB-D194A353DBAA}.Debug|x86.Build.0 = Debug|x86
 		{75EDFDCC-E92E-4B84-86CB-D194A353DBAA}.Release|x86.ActiveCfg = Release|x86
 		{75EDFDCC-E92E-4B84-86CB-D194A353DBAA}.Release|x86.Build.0 = Release|x86
+		{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}.Debug|x86.ActiveCfg = Debug|x86
+		{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}.Debug|x86.Build.0 = Debug|x86
+		{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}.Release|x86.ActiveCfg = Release|x86
+		{B0380D5F-8BEB-424A-9898-AD3CFA4AF07E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
