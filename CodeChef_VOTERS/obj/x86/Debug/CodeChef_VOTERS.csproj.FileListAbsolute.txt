@@ -1,0 +1,5 @@
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_VOTERS\bin\Debug\CodeChef_VOTERS.exe
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_VOTERS\bin\Debug\CodeChef_VOTERS.pdb
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_VOTERS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_VOTERS\obj\x86\Debug\CodeChef_VOTERS.exe
+C:\Users\f3z0j\Documents\github\SPOJ\CodeChef_VOTERS\obj\x86\Debug\CodeChef_VOTERS.pdb
