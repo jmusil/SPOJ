@@ -8,13 +8,14 @@ namespace CODECHEF_VOTERS
     {
         static void Main(string[] args)
         {
+            const int RESULT_SETS_AMOUNT = 3;
             string[] inputString = Console.ReadLine().Split(' ');
-            int[] amountOfInputData = new int[3];
+            int[] amountOfInputData = new int[RESULT_SETS_AMOUNT];
             Dictionary<string, int> dictionary = new Dictionary<string, int>();
             string value;
-            List<int> validVoters = new List<int>();
-            StringBuilder output = new StringBuilder();
-            for (int i = 0; i < 3; i++)
+            List<int> validVotes = new List<int>();
+            
+            for (int i = 0; i < RESULT_SETS_AMOUNT; i++)
             {
                 amountOfInputData[i] = Int32.Parse(inputString[i]);
                 while (amountOfInputData[i]-- > 0)
@@ -30,17 +31,33 @@ namespace CODECHEF_VOTERS
                     }
                 }
             }
-            foreach (KeyValuePair<string, int> pair in dictionary)
+            
+            validVotes = getValidVotes(dictionary);
+            validVotes.Sort();
+            outputResults(validVotes);
+            
+        }
+
+        public static List<int> getValidVotes(Dictionary<string, int> allVotes)
+        {
+            List<int> validVotes = new List<int>();
+            foreach (KeyValuePair<string, int> pair in allVotes)
             {
                 if (pair.Value > 1)
                 {
-                    validVoters.Add(Int32.Parse(pair.Key));
+                    validVotes.Add(Int32.Parse(pair.Key));
                 }
             }
-            validVoters.Sort();
-            output.Append(validVoters.Count);
+           
+            return validVotes;
+        }
+
+        public static void outputResults(List<int> results)
+        {
+            StringBuilder output = new StringBuilder();
+            output.Append(results.Count);
             output.Append(Environment.NewLine);
-            foreach (int item in validVoters)
+            foreach (int item in results)
             {
                 output.Append(item);
                 output.Append(Environment.NewLine);

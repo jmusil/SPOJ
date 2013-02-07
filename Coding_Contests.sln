@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_LEBOMBS", "CodeChe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_VOTERS", "CodeChef_VOTERS\CodeChef_VOTERS.csproj", "{2DD99E3A-1C9B-4903-9A33-AF9F9FD9A8E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_NUKES", "CodeChef_NUKES\CodeChef_NUKES.csproj", "{71BAD7B5-09FC-4305-A91A-72038AF68024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_COMM3", "CodeChef_COMM3\CodeChef_COMM3.csproj", "{6A146412-FAD1-4767-B07A-18E17B3FA425}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -91,6 +95,14 @@ Global
 		{2DD99E3A-1C9B-4903-9A33-AF9F9FD9A8E8}.Debug|x86.Build.0 = Debug|x86
 		{2DD99E3A-1C9B-4903-9A33-AF9F9FD9A8E8}.Release|x86.ActiveCfg = Release|x86
 		{2DD99E3A-1C9B-4903-9A33-AF9F9FD9A8E8}.Release|x86.Build.0 = Release|x86
+		{71BAD7B5-09FC-4305-A91A-72038AF68024}.Debug|x86.ActiveCfg = Debug|x86
+		{71BAD7B5-09FC-4305-A91A-72038AF68024}.Debug|x86.Build.0 = Debug|x86
+		{71BAD7B5-09FC-4305-A91A-72038AF68024}.Release|x86.ActiveCfg = Release|x86
+		{71BAD7B5-09FC-4305-A91A-72038AF68024}.Release|x86.Build.0 = Release|x86
+		{6A146412-FAD1-4767-B07A-18E17B3FA425}.Debug|x86.ActiveCfg = Debug|x86
+		{6A146412-FAD1-4767-B07A-18E17B3FA425}.Debug|x86.Build.0 = Debug|x86
+		{6A146412-FAD1-4767-B07A-18E17B3FA425}.Release|x86.ActiveCfg = Release|x86
+		{6A146412-FAD1-4767-B07A-18E17B3FA425}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
