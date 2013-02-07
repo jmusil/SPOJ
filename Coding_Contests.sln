@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_NUKES", "CodeChef_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_COMM3", "CodeChef_COMM3\CodeChef_COMM3.csproj", "{6A146412-FAD1-4767-B07A-18E17B3FA425}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_MUFFINS3", "CodeChef_MUFFINS3\CodeChef_MUFFINS3.csproj", "{12D20014-21A3-49F3-8AE0-7C89E815C9FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -103,6 +105,10 @@ Global
 		{6A146412-FAD1-4767-B07A-18E17B3FA425}.Debug|x86.Build.0 = Debug|x86
 		{6A146412-FAD1-4767-B07A-18E17B3FA425}.Release|x86.ActiveCfg = Release|x86
 		{6A146412-FAD1-4767-B07A-18E17B3FA425}.Release|x86.Build.0 = Release|x86
+		{12D20014-21A3-49F3-8AE0-7C89E815C9FE}.Debug|x86.ActiveCfg = Debug|x86
+		{12D20014-21A3-49F3-8AE0-7C89E815C9FE}.Debug|x86.Build.0 = Debug|x86
+		{12D20014-21A3-49F3-8AE0-7C89E815C9FE}.Release|x86.ActiveCfg = Release|x86
+		{12D20014-21A3-49F3-8AE0-7C89E815C9FE}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
