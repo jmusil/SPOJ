@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_MUFFINS3", "CodeCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_BUYING2", "CodeChef_BUYING2\CodeChef_BUYING2.csproj", "{168B847B-A699-45DA-B822-872BD4C451AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_CONFLIP", "CodeChef_CONFLIP\CodeChef_CONFLIP.csproj", "{5788D17C-4FB2-4C3C-B590-51CC2B937250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -115,6 +117,10 @@ Global
 		{168B847B-A699-45DA-B822-872BD4C451AB}.Debug|x86.Build.0 = Debug|x86
 		{168B847B-A699-45DA-B822-872BD4C451AB}.Release|x86.ActiveCfg = Release|x86
 		{168B847B-A699-45DA-B822-872BD4C451AB}.Release|x86.Build.0 = Release|x86
+		{5788D17C-4FB2-4C3C-B590-51CC2B937250}.Debug|x86.ActiveCfg = Debug|x86
+		{5788D17C-4FB2-4C3C-B590-51CC2B937250}.Debug|x86.Build.0 = Debug|x86
+		{5788D17C-4FB2-4C3C-B590-51CC2B937250}.Release|x86.ActiveCfg = Release|x86
+		{5788D17C-4FB2-4C3C-B590-51CC2B937250}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
