@@ -61,6 +61,7 @@ namespace CodeChef_CLEANUP
                     chefsResults.Append(item.ToString());
                     chefsResults.Append(" ");    
                 }
+                //remove trailing space
                 if (chefsResults.Length > 0)
                 {
                     chefsResults.Remove(chefsResults.Length - 1, 1);    
@@ -71,6 +72,7 @@ namespace CodeChef_CLEANUP
                     assistantsResults.Append(item.ToString());
                     assistantsResults.Append(" ");    
                 }
+                //remove trailing space
                 if (assistantsResults.Length > 0)
                 {
                     assistantsResults.Remove(assistantsResults.Length - 1, 1);    
