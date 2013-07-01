@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_MAXCOUNT", "CodeCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_POINTS", "CodeChef_POINTS\CodeChef_POINTS.csproj", "{948EEF3B-009B-4622-962E-BB61CF04AC03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_DOUBLE", "CodeChef_DOUBLE\CodeChef_DOUBLE.csproj", "{CC767671-7196-4271-B2B4-09DB2C4A59AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -359,6 +361,16 @@ Global
 		{948EEF3B-009B-4622-962E-BB61CF04AC03}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{948EEF3B-009B-4622-962E-BB61CF04AC03}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{948EEF3B-009B-4622-962E-BB61CF04AC03}.Release|x86.ActiveCfg = Release|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CC767671-7196-4271-B2B4-09DB2C4A59AC}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
