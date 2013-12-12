@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_CIELAB", "CodeChef
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_STONES", "CodeChef_STONES\CodeChef_STONES.csproj", "{231F85D2-8CEE-44D7-B988-F045798F3A12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_HORSES", "CodeChef_HORSES\CodeChef_HORSES.csproj", "{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -395,6 +397,16 @@ Global
 		{231F85D2-8CEE-44D7-B988-F045798F3A12}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{231F85D2-8CEE-44D7-B988-F045798F3A12}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{231F85D2-8CEE-44D7-B988-F045798F3A12}.Release|x86.ActiveCfg = Release|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{43E29E44-4D36-4DFF-8EF4-CDC531AEA587}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
