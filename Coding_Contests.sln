@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_PLAYFIT", "CodeChe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_HOTEL", "CodeChef_HOTEL\CodeChef_HOTEL.csproj", "{C1790287-8E40-4340-A154-093779575BE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef_BUY1GET1", "CodeChef_BUY1GET1\CodeChef_BUY1GET1.csproj", "{370F3D22-26FA-48B5-B10F-B66074DEF08A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -431,6 +433,16 @@ Global
 		{C1790287-8E40-4340-A154-093779575BE0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{C1790287-8E40-4340-A154-093779575BE0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{C1790287-8E40-4340-A154-093779575BE0}.Release|x86.ActiveCfg = Release|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{370F3D22-26FA-48B5-B10F-B66074DEF08A}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
