@@ -10,12 +10,12 @@ namespace CodeChef_DIRECTI
         static void Main(string[] args)
         {
             int testcases = Int32.Parse(Console.ReadLine());
-            
+
             while (testcases-- > 0)
             {
                 List<KeyValuePair<string, string>> directions = new List<KeyValuePair<string, string>>();
                 int lines = Int32.Parse(Console.ReadLine());
-                
+
                 for (int i = 0; i < lines; i++)
                 {
                     string line = Console.ReadLine();
@@ -30,7 +30,7 @@ namespace CodeChef_DIRECTI
                         }
                     }
 
-                    directions.Add(new KeyValuePair<string,string>(splitLine[0], street.ToString()));
+                    directions.Add(new KeyValuePair<string, string>(splitLine[0], street.ToString()));
                 }
 
                 StringBuilder result = new StringBuilder();
@@ -40,26 +40,27 @@ namespace CodeChef_DIRECTI
 
                 for (int i = directions.Count - 1; i > 0; i--)
                 {
-                    if (directions.ElementAt(i).Key == "Left")
+                    switch (directions.ElementAt(i).Key)
                     {
-                        result.Append("Right");
+                        case "Left":
+                            result.Append("Right");
+                            break;
+                        case "left": 
+                            result.Append("right"); 
+                            break;
+                        case "Right": 
+                            result.Append("Left"); 
+                            break;
+                        case "right": 
+                            result.Append("left"); 
+                            break;
+                        default: 
+                            break;
                     }
-                    else if (directions.ElementAt(i).Key == "left")
-                    {
-                        result.Append("right");
-                    }
-                    else if (directions.ElementAt(i).Key == "Right")
-                    {
-                        result.Append("Left");
-                    }
-                    else if (directions.ElementAt(i).Key == "right")
-                    {
-                        result.Append("left");
-                    }
-                    
+
                     result.Append(" on ");
-                    result.Append(directions.ElementAt(i-1).Value);
-                    if (i > 1 )
+                    result.Append(directions.ElementAt(i - 1).Value);
+                    if (i > 1)
                     {
                         result.Append(Environment.NewLine);
                     }
@@ -69,10 +70,10 @@ namespace CodeChef_DIRECTI
                 Console.WriteLine(result.ToString());
                 if (testcases > 0)
                 {
-                Console.WriteLine();
+                    Console.WriteLine();
                 }
             }
-            
+
         }
     }
 }
